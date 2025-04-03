@@ -46,23 +46,26 @@ Please evaluate your system on the following questions:
      ![Q2](https://github.com/user-attachments/assets/fa3e2bca-069d-46a6-8f65-669533210559)
     
     - Aspect Tested:
-      **Summarization** - The summary give by chatbot could be little short so here there is scope to improve the promp to give consice summary with specified range.
+      **Summarization** - The summary given by chatbot is bit long. It could be little short so here there is scope to improve the promp to give consice summary with specified range.
          
 3. Write a short, imaginative story (100–150 words) about a robot finding friendship in an unexpected place.
    ![Q3](https://github.com/user-attachments/assets/8e997e60-f078-4d9d-8c00-4ea378d7f31e)
    
     - Aspect Tested:
-    **Creativity & Coherence** - 
+    **Creativity & Coherence** - The chatnot has built nice short story, but it could be more creative and engaging. Let's try adjusting temperature settings
+      
 4. If a store sells apples in packs of 4 and oranges in packs of 3, how many packs of each do I need to buy to get exactly 12 apples and 9 oranges?
     ![Q4](https://github.com/user-attachments/assets/8e860141-5ad4-4d3f-b7c8-82e95ce0fd6a)
 
-    - Aspect Tested:
-     **Logical Reasoning & Math Skills**
+    - Aspect Tested: 
+     **Logical Reasoning & Math Skills** -  Chatbot has performed correct calculations
+      
 5. Rewrite the following paragraph in a professional, formal tone…
      ![Q5](https://github.com/user-attachments/assets/970d50f4-512f-4d5d-9b92-e23329e62b1a)
 
     - Aspect Tested:
-     **Language & Formality**
+     **Language & Formality** - Chatbot has maintain the original meaning while making it more professional. It can be improve to have more humanize respone. 
+     
 This "vibe check" now serves as a baseline, of sorts, to help understand what holes your application has.
 
 ##### 🚧 Advanced Build:
