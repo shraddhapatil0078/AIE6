@@ -36,18 +36,33 @@ Each assignment will have a few of the following categories of exercises:
 
 Please evaluate your system on the following questions:
 
-1. Explain the concept of object-oriented programming in simple terms to a complete beginner. 
-    - Aspect Tested:
-    - 
-2. Read the following paragraph and provide a concise summary of the key points…
-    - Aspect Tested:
-3. Write a short, imaginative story (100–150 words) about a robot finding friendship in an unexpected place.
-    - Aspect Tested:
-4. If a store sells apples in packs of 4 and oranges in packs of 3, how many packs of each do I need to buy to get exactly 12 apples and 9 oranges?
-    - Aspect Tested:
-5. Rewrite the following paragraph in a professional, formal tone…
-    - Aspect Tested:
+1. Explain the concept of object-oriented programming in simple terms to a complete beginner.
+  ![Q1](https://github.com/user-attachments/assets/abc6a1e1-9d74-47d7-84d4-3189ccd1a5e7)
 
+    - Aspect Tested:
+     **Clarity and Simplicity** - The chatbot has generated step by step detail answer with clear points.
+      
+2. Read the following paragraph and provide a concise summary of the key points…
+     ![Q2](https://github.com/user-attachments/assets/fa3e2bca-069d-46a6-8f65-669533210559)
+    
+    - Aspect Tested:
+      **Summarization** - The summary give by chatbot could be little short so here there is scope to improve the promp to give consice summary with specified range.
+         
+3. Write a short, imaginative story (100–150 words) about a robot finding friendship in an unexpected place.
+   ![Q3](https://github.com/user-attachments/assets/8e997e60-f078-4d9d-8c00-4ea378d7f31e)
+   
+    - Aspect Tested:
+    **Creativity & Coherence** - 
+4. If a store sells apples in packs of 4 and oranges in packs of 3, how many packs of each do I need to buy to get exactly 12 apples and 9 oranges?
+    ![Q4](https://github.com/user-attachments/assets/8e860141-5ad4-4d3f-b7c8-82e95ce0fd6a)
+
+    - Aspect Tested:
+     **Logical Reasoning & Math Skills**
+5. Rewrite the following paragraph in a professional, formal tone…
+     ![Q5](https://github.com/user-attachments/assets/970d50f4-512f-4d5d-9b92-e23329e62b1a)
+
+    - Aspect Tested:
+     **Language & Formality**
 This "vibe check" now serves as a baseline, of sorts, to help understand what holes your application has.
 
 ##### 🚧 Advanced Build:
