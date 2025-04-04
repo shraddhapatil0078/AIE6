@@ -87,6 +87,7 @@ In essence, it's a first look to ensure your system isn't experiencing catastrop
 ##### 🧑‍🤝‍🧑❓ Discussion Question #1:
 
 What are some limitations of vibe checking as an evaluation tool? 
+
 **Subjectivity**: Vibe check reliers mostly on person's opinion which can vary person to person
 
 **Lack of Clear Criteria**: It's difficult to come to a clear criteria or what is good or bad AI output
