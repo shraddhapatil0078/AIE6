@@ -73,7 +73,9 @@ This "vibe check" now serves as a baseline, of sorts, to help understand what ho
 Please make adjustments to your application that you believe will improve the vibe check done above, push the changes to your HF Space and redo the above vibe check.
 
 > NOTE: You may reach for improving the model, changing the prompt, or any other method.
+
 Link to the changed model on HF - https://huggingface.co/spaces/shradharp/bgpt-app
+
 Loom video walkthrough of changes and evalution - https://www.loom.com/share/7e65bd48caa444719ef571587c368aab?sid=f48945d8-8b2f-4912-a74e-3d7eea87dbda
 
 ### A Note on Vibe Checking
@@ -84,9 +86,12 @@ In essence, it's a first look to ensure your system isn't experiencing catastrop
 
 ##### 🧑‍🤝‍🧑❓ Discussion Question #1:
 
-What are some limitations of vibe checking as an evaluation tool?
+What are some limitations of vibe checking as an evaluation tool? 
 **Subjectivity**: Vibe check reliers mostly on person's opinion which can vary person to person
+
 **Lack of Clear Criteria**: It's difficult to come to a clear criteria or what is good or bad AI output
+
 **Developer Bias:** AI developers' own biases can influence their subjective assessments, leading to skewed evaluations.
+
 **Difficulty in Identifying Root Causes:** - Subjective evaluations may not pinpoint the specific reasons for AI model failures, making it harder to address issues. 
 
