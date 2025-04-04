@@ -40,7 +40,7 @@ Please evaluate your system on the following questions:
   ![Q1](https://github.com/user-attachments/assets/abc6a1e1-9d74-47d7-84d4-3189ccd1a5e7)
 
     - Aspect Tested:
-     **Clarity and Simplicity** - The chatbot has generated step by step detail answer with clear points.
+     **Clarity and Simplicity** - The chatbot has generated step by step detail answer with clear points. There is scope to improvement in simple examples.
       
 2. Read the following paragraph and provide a concise summary of the key points…
      ![Q2](https://github.com/user-attachments/assets/fa3e2bca-069d-46a6-8f65-669533210559)
